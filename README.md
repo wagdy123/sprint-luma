@@ -69,8 +69,6 @@ After test execution, open:
 test-output/index.html
 ```
 
----
-
 you can also find it on google drive here : [https://drive.google.com/drive/folders/1polZr_jM5GbwEtVjbYEA6oK7IOSDUWcu?usp=drive_link]
 
 
@@ -79,6 +77,11 @@ you can also find it on google drive here : [https://drive.google.com/drive/fold
 ### 📊 View Test Cases and Bug Report:
 
 google drive here : [https://drive.google.com/drive/folders/1polZr_jM5GbwEtVjbYEA6oK7IOSDUWcu?usp=drive_link]
+
+Or open:
+```
+test cases - bug reports/assignment.xlsx
+---
 
 ## ⚠️ Notes:
 - If you're using Java 23, ensure **preview features** are enabled:
