@@ -18,7 +18,7 @@ Key test areas include product search, adding items to cart, and handling invali
 ## ✅ Automated Test Cases
 1. **Valid Product Search**
 2. **Add Product to Cart**
-3. **Invalid Product Search**
+3. **Valid Complete Purchasing**
 
 ---
 
@@ -28,13 +28,13 @@ Key test areas include product search, adding items to cart, and handling invali
 - Java JDK 23
 - Maven
 - Chrome browser
-- IntelliJ IDEA or Eclipse (recommended)
+- IntelliJ IDEA
 
 ---
 
 ### 📥 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/selenium.git
+git clone https://github.com/wagdy123/sprint-luma
 ```
 
 ---
@@ -54,11 +54,6 @@ mvn clean install
 ---
 
 ## ▶️ Execution Instructions
-
-### ✅ Run All Tests Using Maven:
-```bash
-mvn test
-```
 
 ---
 
