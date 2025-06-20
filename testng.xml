@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Ahmed wagdy/IdeaProjects/selenium/src/test/java/building_my_project/MainTest.java"><classes><class name="building_my_project.MainTest"><methods><include name="testSearchProduct"/><include name="testAddToCart"/><include name="testCompletePurchase"/></methods></class></classes></test></suite>
