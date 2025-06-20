@@ -63,7 +63,7 @@ mvn clean install
 
 ---
 
-### 📊 View Test Report:
+### 📊 View TestNG Report:
 After test execution, open:
 ```
 test-output/index.html
